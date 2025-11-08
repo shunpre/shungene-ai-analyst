@@ -19,7 +19,7 @@ import time # ファイルの先頭でインポート
 # ページ設定
 st.set_page_config(
     page_title="瞬ジェネ AIアナリスト",
-    page_icon=None,
+    page_icon="https://shungene.lm-c.jp/favicon.png",
     layout="wide",
     initial_sidebar_state="auto"
 )
