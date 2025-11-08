@@ -4760,7 +4760,7 @@ elif selected_analysis == "AIによる分析・考察":
     
 # タブ10: 使用ガイド
 elif selected_analysis == "使用ガイド":
-    st.markdown('<div class="sub-header">使用ガイド</div>', unsafe_allow_html=True)
+    st.markdown("### 使用ガイド")
 
     st.markdown("""
     1.  **分析ページを選択する**
